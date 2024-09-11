@@ -1,0 +1,11 @@
+{
+    "name": "strtob/yii2-toastr-asset",
+    "description": "A Yii2 toastr asset.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "strtob\\yii2-toastr-asset\\": "src/"
+        }
+    },
+
+}
