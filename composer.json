@@ -6,6 +6,5 @@
         "psr-4": {
             "strtob\\yii2-toastr-asset\\": "src/"
         }
-    },
-
+    }
 }
